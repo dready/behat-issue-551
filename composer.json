@@ -1,0 +1,11 @@
+{
+	"name": "example",
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"require-dev": {
+		"behat/behat": "3.0.8",
+		"phpunit/phpunit": "4.1.*"
+	},
+	"minimum-stability": "stable"
+}
